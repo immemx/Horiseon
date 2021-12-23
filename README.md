@@ -21,6 +21,12 @@ This excercise helped me refine my HTML and CSS coding but also troubleshooting 
 
  Open the index.html file in your local browser
 
+ ## Usage
+
+ Use the navigation bar to explore the different section of the webpage. 
+
+![Navigation Bar](assets/images/Navigation-Bar.jpg)
+
  ## Credits
 
  The University of Minnesota 
