@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +22,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -49,6 +51,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* HERO */
 
 .hero {
     height: 800px;
@@ -96,7 +100,7 @@ p {
     text-align: center;
 }
 
-.benefitsgit  img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -119,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* FOOTER */
 
 .footer {
     padding: 30px;
